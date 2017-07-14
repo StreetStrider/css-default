@@ -1,0 +1,28 @@
+{
+     "name": "css-default",
+  "version": "0.1.0",
+  "license": "ISC",
+
+  "private":  true,
+
+  "author": "StrangeTransistor <strange.transistor@gmail.com>",
+  "description": "CSS default setup",
+
+  "homepage":            "https://github.com/StreetStrider/css-default",
+  "repository": { "url": "https://github.com/StreetStrider/css-default.git", "type": "git" },
+  "bugs":       { "url": "https://github.com/StreetStrider/css-default/issues" },
+
+  "main": "index.less",
+
+  "files":
+  [
+    "css/",
+    "index.less"
+  ],
+
+  "peerDependencies":
+  {
+    "less":
+      "2"
+  }
+}
