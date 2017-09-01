@@ -1,6 +1,6 @@
 {
-     "name": "css-default",
-  "version": "0.1.0",
+     "name": "@streetstrider/css-default",
+  "version": "1.0.0",
   "license": "ISC",
 
   "author": "StrangeTransistor <strange.transistor@gmail.com>",
