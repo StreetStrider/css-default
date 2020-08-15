@@ -1,6 +1,6 @@
 {
      "name": "@streetstrider/css-default",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "license": "ISC",
 
   "author": "StrangeTransistor <strange.transistor@gmail.com>",
@@ -10,19 +10,11 @@
   "repository": { "url": "https://github.com/StreetStrider/css-default.git", "type": "git" },
   "bugs":       { "url": "https://github.com/StreetStrider/css-default/issues" },
 
-  "main": "index.less",
+  "main": "null.css",
 
   "files":
   [
-    "css/",
-    "index.less",
-    "readme.md",
-    "license"
-  ],
-
-  "peerDependencies":
-  {
-    "less":
-      "2 || 3"
-  }
+    "tweaks/",
+    "null.css"
+  ]
 }
