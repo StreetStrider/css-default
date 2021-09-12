@@ -12,7 +12,8 @@ $ npm i @streetstrider/css-default
 ## usage
 ```less
 @import (css, inline) 'node_modules/@streetstrider/css-default/null.css';
+@import (css, inline) 'node_modules/@streetstrider/css-default/tweaks/focus-outline.css';
 ```
 
 ## license
-ISC, © 2020, Strider.
+ISC, © 2021, Strider.
